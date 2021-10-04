@@ -1,0 +1,11 @@
+**************************************************************
+*** mcu 0
+** component Y
+* bloc 0
+[ DC/AC] 07(1) / 13(5) 09(5) 19(4) 19(4) 18(2) 08(4) 17(2) 37(5) 17(2) 17(2) 08(4) 19(4) 17(2) 15(3) 18(2) 15(3) 15(3) 18(2) 15(3) 18(2) 18(2) 23(5) 17(2) 17(2) 18(2) 15(3) 29(5) 17(2) 18(2) 28(5) 00(5) -- total 318 bits
+[  bloc] 7c 0 fffa feb3 0 fee4 0 fedb 0 ff36 80 0 ff8b 0 0 0 6a 0 ffa0 0 ffa6 ff76 0 11c 0 45 0 ffec 0 ff7d 0 19 0 13 0 dd 0 1a 0 ff 0 9a 0 0 4 0 7d 0 ffa8 0 ff59 0 14 0 0 fe1f 0 ffb9 0 f4 0 0 ff3c 0 
+[iquant] 7c 0 fffa feb3 0 fee4 0 fedb 0 ff36 80 0 ff8b 0 0 0 6a 0 ffa0 0 ffa6 ff76 0 11c 0 45 0 ffec 0 ff7d 0 19 0 13 0 dd 0 1a 0 ff 0 9a 0 0 4 0 7d 0 ffa8 0 ff59 0 14 0 0 fe1f 0 ffb9 0 f4 0 0 ff3c 0 
+[   izz] 7c 0 fee4 0 0 0 ffec 0 fffa 0 fedb 0 6a 0 ff7d 0 feb3 0 ff8b 0 45 0 9a 0 ff36 0 ffa0 0 19 0 4 0 80 0 11c 0 ff 0 14 0 ffa6 0 13 0 7d 0 fe1f 0 ff76 0 1a 0 ff59 0 f4 0 dd 0 ffa8 0 ffb9 0 ff3c 0 
+[  idct] 0 0 0 ff ff 0 0 0 0 0 ff ff ff ff 0 0 0 ff ff ff ff ff ff 0 ff ff 0 ff ff 0 ff ff ff ff ff ff ff ff ff ff 0 0 ff 0 0 ff 0 0 0 ff 0 ff ff 0 ff 0 ff 0 ff 0 0 ff 0 ff 
+* component mcu
+[   mcu] 0 0 0 ff ff 0 0 0 0 0 ff ff ff ff 0 0 0 ff ff ff ff ff ff 0 ff ff 0 ff ff 0 ff ff ff ff ff ff ff ff ff ff 0 0 ff 0 0 ff 0 0 0 ff 0 ff ff 0 ff 0 ff 0 ff 0 0 ff 0 ff 
